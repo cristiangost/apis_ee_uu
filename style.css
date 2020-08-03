@@ -1,0 +1,37 @@
+#map {
+    height: 900px;
+	width: 80%;
+	float:right;
+	
+  }
+#html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+#menu{
+	position:absolute;
+	width: 20%;
+	height: 900px;
+	background-color: #333;
+	color: #fff;
+	float: left;
+	
+}
+#menu h4{
+	text-align: center;
+	margin: 0;
+	padding: 10px;
+	background-color: #1C1918;
+}
+#estado{
+	color: #fff;
+	
+}
+ #title1{
+	 text-align: center;
+	 margin-top: 50px;
+ }
+
+
